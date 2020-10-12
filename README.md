@@ -1,1 +1,1 @@
-# Spatio-Temporal-Attention-model-with-Graph-regularizer
+# Spatio-Temporal-Attention-model-Land-Cover-Mapping
